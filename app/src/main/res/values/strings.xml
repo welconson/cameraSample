@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cameraSample</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+</resources>
